@@ -5,112 +5,16 @@
       "name": "Артем",
       "posts": [
         {
-          "first": [
+          "first":[
             {
-              "title": "firstPotter",
-              "info": "firstPotter_info",
+              "title": "first",
+              "info": "first_info",
               "comments": [
                 {
                   "1": [
                     {
                       "user": "Potter",
-                      "comment": "PotterNice00!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice01!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice02!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "second": [
-            {
-              "title": "secondPotter",
-              "info": "secondPotter_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice10!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice11!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice12!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "third": [
-            {
-              "title": "thirdPotter",
-              "info": "thirdPotter_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice20!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice21!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice22!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "fourth": [
-            {
-              "title": "fourthPotter",
-              "info": "fourthPotter_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice30!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice31!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "user": "Potter",
-                      "comment": "PotterNice32!"
+                      "comment": "Nice!"
                     }
                   ]
                 }
@@ -119,7 +23,10 @@
           ]
         }
       ]
+    },
+    {
+      "username": "Potter",
+      "name": "Harry"
     }
-    
   ]
 }
