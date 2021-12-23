@@ -214,145 +214,43 @@
       "userName": "Tuko",
       "userAlbs": [
         {
-          "1":{
-            "title": "1TukoAlb",
-            "info": "1TukoAlb_info"
-          },
-          "2":{
-             "title": "2TukoAlb",
-             "info": "2TukoAlb_info"
-          },
-          "3":{
-            "title": "3TukoAlb",
-            "info": "3TukoAlb_info"
-          },
-          "4": {
-            "title": "4TukoAlb",
-            "info": "4TukoAlb_info"
-          }
+          "title": "1TukoAlb",
+          "info": "1TukoAlb_info"
+        },
+        {
+           "title": "2TukoAlb",
+           "info": "2TukoAlb_info"
+        },
+        {
+          "title": "3TukoAlb",
+          "info": "3TukoAlb_info"
+        },
+        {
+          "title": "4TukoAlb",
+          "info": "4TukoAlb_info"
         }
       ]
     },
     {
       "userName": "Potter",
-      "userAlbs": {
-        "posts": [
+      "userAlbs": [
         {
-          "1":[
-            {
-              "title": "1PotterAlb",
-              "info": "1PotterAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice00!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice01!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice02!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "2":[
-            {
-              "title": "2PotterAlb",
-              "info": "2PotterAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice10!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice11!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice12!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "3":[
-            {
-              "title": "3PotterAlb",
-              "info": "3PotterAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice20!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice21!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice22!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "4":[
-            {
-              "title": "4PotterAlb",
-              "info": "4PotterAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice30!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice31!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice32!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "title": "1PotterAlb",
+          "info": "1PotterAlb_info"
+        },
+        {
+           "title": "2PotterAlb",
+           "info": "2PotterAlb_info"
+        },
+        {
+          "title": "3PotterAlb",
+          "info": "3PotterAlb_info"
+        },
+        {
+          "title": "4PotterAlb",
+          "info": "4PotterAlb_info"
         }
       ]
-      }
     }
   ]
 }
