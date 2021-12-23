@@ -10,6 +10,18 @@
         "name": "SomeCompany",
         "bs": "SomeBS",
         "catchPhrase": "SomeCatchPhrase"
+      },
+      "posts":{
+        "1": "1TukoPost",
+        "2": "2TukoPost",
+        "3": "3TukoPost",
+        "4": "4TukoPost"
+      },
+      "albums":{
+        "1":"1TukoAlb",
+        "2":"2TukoAlb",
+        "3":"3TukoAlb",
+        "4":"4TukoAlb",
       }
     },
     {
@@ -22,6 +34,12 @@
         "name": "SomeCompanyPotter",
         "bs": "SomeBSPotter",
         "catchPhrase": "SomeCatchPhrasePotter"
+      },
+      "posts":{
+        "1": "1PotterPost",
+        "2": "2PotterPost",
+        "3": "3PotterPost",
+        "4": "4PotterPost"
       }
     }
   ],
@@ -42,8 +60,8 @@
         {
           "1":[
             {
-              "title": "firstPotter",
-              "info": "firstPotter_info",
+              "title": "1TukoPost",
+              "info": "1TukoPost_info",
               "comments": [
                 {
                   "1": [
@@ -70,8 +88,8 @@
           ],
           "2":[
             {
-              "title": "secondPotter",
-              "info": "secondPotter_info",
+              "title": "2TukoPost",
+              "info": "2TukoPost_info",
               "comments": [
                 {
                   "1": [
@@ -98,8 +116,8 @@
           ],
           "3":[
             {
-              "title": "thirdPotter",
-              "info": "thirdPotter_info",
+              "title": "3TukoPost",
+              "info": "3TukoPost_info",
               "comments": [
                 {
                   "1": [
@@ -126,8 +144,8 @@
           ],
           "4": [
             {
-              "title": "fourthPotter",
-              "info": "fourthPotter_info",
+              "title": "4TukoPost",
+              "info": "4TukoPost_info",
               "comments": [
                 {
                   "1": [
@@ -162,8 +180,8 @@
         {
           "1":[
             {
-              "title": "firstTuko",
-              "info": "firstTuko_info",
+              "title": "1PotterPost",
+              "info": "1PotterPost_info",
               "comments": [
                 {
                   "1": [
@@ -190,8 +208,8 @@
           ],
           "2":[
             {
-              "title": "secondTuko",
-              "info": "secondTuko_info",
+              "title": "2PotterPost",
+              "info": "2PotterPost_info",
               "comments": [
                 {
                   "1": [
@@ -218,8 +236,8 @@
           ],
           "3":[
             {
-              "title": "third",
-              "info": "third_info",
+              "title": "3PotterPost",
+              "info": "3PotterPost_info",
               "comments": [
                 {
                   "1": [
@@ -246,8 +264,250 @@
           ],
           "4":[
             {
-              "title": "fourth",
-              "info": "fourth_info",
+              "title": "4PotterPost",
+              "info": "4PotterPost_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice30!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice31!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice32!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+      }
+    }
+  ],
+  "albums":[
+    {
+      "userName": "Tuko",
+      "userPosts": [
+        {
+          "1":[
+            {
+              "title": "1TukoAlb",
+              "info": "1TukoAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice00!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice01!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice02!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "2":[
+            {
+              "title": "2TukoAlb",
+              "info": "2TukoAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice10!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice11!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice12!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "3":[
+            {
+              "title": "3TukoAlb",
+              "info": "3TukoAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice20!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice21!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice22!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "4": [
+            {
+              "title": "4TukoAlb",
+              "info": "4TukoAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice30!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice31!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Potter",
+                      "comment": "PotterNice32!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "userName": "Potter",
+      "userPosts": {
+        "posts": [
+        {
+          "1":[
+            {
+              "title": "1PotterAlb",
+              "info": "1PotterAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice00!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice01!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice02!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "2":[
+            {
+              "title": "2PotterAlb",
+              "info": "2PotterAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice10!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice11!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice12!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "3":[
+            {
+              "title": "3PotterAlb",
+              "info": "3PotterAlb_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice20!"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice21!"
+                    }
+                  ],
+                  "3": [
+                    {
+                      "userName": "Tuko",
+                      "comment": "TukoNice22!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "4":[
+            {
+              "title": "4PotterAlb",
+              "info": "4PotterAlb_info",
               "comments": [
                 {
                   "1": [
