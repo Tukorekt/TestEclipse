@@ -56,368 +56,187 @@
   "posts":[
     {
       "userName": "Tuko",
-      "userPosts": [
+      "userPosts":[
         {
-          "1":[
+          "title": "1TukoPost",
+          "info": "1TukoPost_info",
+          "comments": [
             {
-              "title": "1TukoPost",
-              "info": "1TukoPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice00!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice01!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice02!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "2":[
+              "userName": "Potter",
+              "comment": "PotterNice00!"
+            },
             {
-              "title": "2TukoPost",
-              "info": "2TukoPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice10!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice11!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice12!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "3":[
+              "userName": "Potter",
+              "comment": "PotterNice01!"
+            },
             {
-              "title": "3TukoPost",
-              "info": "3TukoPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice20!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice21!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice22!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "4": [
-            {
-              "title": "4TukoPost",
-              "info": "4TukoPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice30!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice31!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice32!"
-                    }
-                  ]
-                }
-              ]
+              "userName": "Potter",
+              "comment": "PotterNice02!"
             }
           ]
+        },
+        {
+          "title": "2TukoPost",
+          "info": "2TukoPost_info",
+          "comments": [
+              {
+                "userName": "Potter",
+                "comment": "PotterNice10!"
+              },
+              {
+                "userName": "Potter",
+                "comment": "PotterNice11!"
+              },
+              {
+                "userName": "Potter",
+                "comment": "PotterNice12!"
+              }
+          ]
+        },
+        {
+          "title": "3TukoPost",
+          "info": "3TukoPost_info",
+          "comments": [
+            {
+              "userName": "Potter",
+              "comment": "PotterNice20!"
+            },
+            {
+              "userName": "Potter",
+              "comment": "PotterNice21!"
+            },
+            {
+              "userName": "Potter",
+              "comment": "PotterNice22!"
+            }
+          ]
+        },
+        {
+          "title": "4TukoPost",
+          "info": "4TukoPost_info",
+          "comments": [
+            {
+              "userName": "Potter",
+              "comment": "PotterNice30!"
+            }
+            {
+              "userName": "Potter",
+              "comment": "PotterNice31!"
+            }
+            {
+              "userName": "Potter",
+              "comment": "PotterNice32!"
+            }
+          }
         }
       ]
     },
     {
       "userName": "Potter",
-      "userPosts": {
-        "posts": [
-        {
-          "1":[
-            {
-              "title": "1PotterPost",
-              "info": "1PotterPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice00!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice01!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice02!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "2":[
-            {
-              "title": "2PotterPost",
-              "info": "2PotterPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice10!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice11!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice12!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "3":[
-            {
-              "title": "3PotterPost",
-              "info": "3PotterPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice20!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice21!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice22!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "4":[
-            {
-              "title": "4PotterPost",
-              "info": "4PotterPost_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice30!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice31!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Tuko",
-                      "comment": "TukoNice32!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "userPosts": [
+         {
+          "title": "1PotterPost",
+          "info": "1PotterPost_info",
+          "comments": [
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice00!"
+              },
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice01!"
+              },
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice02!"
+              }
+            ]
+          },
+          {
+            "title": "2PotterPost",
+            "info": "2PotterPost_info",
+            "comments": [
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice10!"
+              }
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice11!"
+              }
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice12!"
+              }
+            ]
+          },
+          {
+            "title": "3PotterPost",
+            "info": "3PotterPost_info",
+            "comments": [
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice20!"
+              }
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice21!"
+              }
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice22!"
+              }
+            ]
+          },
+          {
+            "title": "4PotterPost",
+            "info": "4PotterPost_info",
+            "comments": [
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice30!"
+              }
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice31!"
+              }
+              {
+                "userName": "Tuko",
+                "comment": "TukoNice32!"
+              }
+            ]
+          }
+        ]
       }
     }
   ],
   "albums":[
     {
       "userName": "Tuko",
-      "userPosts": [
+      "userAlbs": [
         {
-          "1":[
-            {
-              "title": "1TukoAlb",
-              "info": "1TukoAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice00!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice01!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice02!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "2":[
-            {
-              "title": "2TukoAlb",
-              "info": "2TukoAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice10!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice11!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice12!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "3":[
-            {
-              "title": "3TukoAlb",
-              "info": "3TukoAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice20!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice21!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice22!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "4": [
-            {
-              "title": "4TukoAlb",
-              "info": "4TukoAlb_info",
-              "comments": [
-                {
-                  "1": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice30!"
-                    }
-                  ],
-                  "2": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice31!"
-                    }
-                  ],
-                  "3": [
-                    {
-                      "userName": "Potter",
-                      "comment": "PotterNice32!"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "1":{
+            "title": "1TukoAlb",
+            "info": "1TukoAlb_info",
+          },
+          "2":{
+             "title": "2TukoAlb",
+             "info": "2TukoAlb_info",
+          },
+          "3":{
+            "title": "3TukoAlb",
+            "info": "3TukoAlb_info",
+          },
+          "4": {
+            "title": "4TukoAlb",
+            "info": "4TukoAlb_info",
+          }
         }
       ]
     },
     {
       "userName": "Potter",
-      "userPosts": {
+      "userAlbs": {
         "posts": [
         {
           "1":[
