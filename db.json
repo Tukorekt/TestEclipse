@@ -2,7 +2,27 @@
   "users": [
     {
       "username": "Tuko",
-      "name": "Артем"
+      "name": "Артем",
+      "posts": [
+        {
+          "first":[
+            {
+              "title": "first",
+              "info": "first_info",
+              "comments": [
+                {
+                  "1": [
+                    {
+                      "user": "Potter",
+                      "comment": "Nice!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "username": "Potter",
