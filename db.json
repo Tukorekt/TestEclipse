@@ -240,5 +240,15 @@
         }
       ]
     }
+  ],
+  "UsersList":[
+    {
+      "username": "Tuko",
+      "name": "Артем"
+    },
+    {
+      "username": "Potter",
+      "name": "Harry"
+    }
   ]
 }
