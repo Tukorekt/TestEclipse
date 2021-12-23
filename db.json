@@ -5,7 +5,7 @@
       "name": "Артем",
       "posts": [
         {
-          "first":[
+          "first": [
             {
               "title": "firstPotter",
               "info": "firstPotter_info",
@@ -33,7 +33,7 @@
               ]
             }
           ],
-          "second":[
+          "second": [
             {
               "title": "secondPotter",
               "info": "secondPotter_info",
@@ -61,7 +61,7 @@
               ]
             }
           ],
-          "third":[
+          "third": [
             {
               "title": "thirdPotter",
               "info": "thirdPotter_info",
@@ -89,7 +89,7 @@
               ]
             }
           ],
-          "fourth":[
+          "fourth": [
             {
               "title": "fourthPotter",
               "info": "fourthPotter_info",
@@ -125,7 +125,7 @@
       "name": "Harry",
       "posts": [
         {
-          "first":[
+          "first": [
             {
               "title": "firstTuko",
               "info": "firstTuko_info",
@@ -153,7 +153,7 @@
               ]
             }
           ],
-          "second":[
+          "second": [
             {
               "title": "secondTuko",
               "info": "secondTuko_info",
@@ -181,7 +181,7 @@
               ]
             }
           ],
-          "third":[
+          "third": [
             {
               "title": "third",
               "info": "third_info",
@@ -209,7 +209,7 @@
               ]
             }
           ],
-          "fourth":[
+          "fourth": [
             {
               "title": "fourth",
               "info": "fourth_info",
@@ -238,7 +238,7 @@
             }
           ]
         }
-       ]
+      ]
     }
   ]
 }
