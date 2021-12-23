@@ -40,7 +40,7 @@
       "userName": "Tuko",
       "userPosts": [
         {
-          "first":[
+          "1":[
             {
               "title": "firstPotter",
               "info": "firstPotter_info",
@@ -68,7 +68,7 @@
               ]
             }
           ],
-          "second":[
+          "2":[
             {
               "title": "secondPotter",
               "info": "secondPotter_info",
@@ -96,7 +96,7 @@
               ]
             }
           ],
-          "third":[
+          "3":[
             {
               "title": "thirdPotter",
               "info": "thirdPotter_info",
@@ -124,7 +124,7 @@
               ]
             }
           ],
-          "fourth": [
+          "4": [
             {
               "title": "fourthPotter",
               "info": "fourthPotter_info",
@@ -160,7 +160,7 @@
       "userPosts": {
         "posts": [
         {
-          "first":[
+          "1":[
             {
               "title": "firstTuko",
               "info": "firstTuko_info",
@@ -188,7 +188,7 @@
               ]
             }
           ],
-          "second":[
+          "2":[
             {
               "title": "secondTuko",
               "info": "secondTuko_info",
@@ -216,7 +216,7 @@
               ]
             }
           ],
-          "third":[
+          "3":[
             {
               "title": "third",
               "info": "third_info",
@@ -244,7 +244,7 @@
               ]
             }
           ],
-          "fourth":[
+          "4":[
             {
               "title": "fourth",
               "info": "fourth_info",
