@@ -23,6 +23,7 @@
         "bs": "SomeBSPotter",
         "catchPhrase": "SomeCatchPhrasePotter"
       }
+    }
   ],
   "usersList":[
     {
@@ -156,7 +157,7 @@
     },
     {
       "userName": "Potter",
-      "userPosts": [
+      "userPosts": {
         "posts": [
         {
           "first":[
@@ -273,8 +274,7 @@
           ]
         }
       ]
-    }
-      ]
+      }
     }
   ]
 }
