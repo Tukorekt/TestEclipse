@@ -1,9 +1,43 @@
 {
   "users": [
     {
-      "username": "Tuko",
+      "userName": "Tuko",
       "name": "Артем",
-      "posts": [
+      "email": "artem-lac@mail.ru",
+      "phone": "+79011745046",
+      "webSite": "www.SomeSite.com",
+      "job":{
+        "name": "SomeCompany",
+        "bs": "SomeBS",
+        "catchPhrase": "SomeCatchPhrase"
+      }
+    },
+    {
+      "userName": "Potter",
+      "name": "Harry",
+      "email": "HarryPotter@mail.ru",
+      "phone": "+79201401703",
+      "webSite": "www.SomeSitePotter.com",
+      "job":{
+        "name": "SomeCompanyPotter",
+        "bs": "SomeBSPotter",
+        "catchPhrase": "SomeCatchPhrasePotter"
+      }
+  ],
+  "usersList":[
+    {
+      "userName": "Tuko",
+      "name": "Артем"
+    },
+    {
+      "userName": "Potter",
+      "name": "Harry"
+    }
+  ],
+  "posts":[
+    {
+      "userName": "Tuko",
+      "userPosts": [
         {
           "first":[
             {
@@ -13,19 +47,19 @@
                 {
                   "1": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice00!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice01!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice02!"
                     }
                   ]
@@ -41,19 +75,19 @@
                 {
                   "1": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice10!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice11!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice12!"
                     }
                   ]
@@ -69,19 +103,19 @@
                 {
                   "1": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice20!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice21!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice22!"
                     }
                   ]
@@ -97,19 +131,19 @@
                 {
                   "1": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice30!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice31!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Potter",
+                      "userName": "Potter",
                       "comment": "PotterNice32!"
                     }
                   ]
@@ -121,9 +155,9 @@
       ]
     },
     {
-      "username": "Potter",
-      "name": "Harry",
-      "posts": [
+      "userName": "Potter",
+      "userPosts": [
+        "posts": [
         {
           "first":[
             {
@@ -133,19 +167,19 @@
                 {
                   "1": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice00!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice01!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice02!"
                     }
                   ]
@@ -161,19 +195,19 @@
                 {
                   "1": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice10!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice11!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice12!"
                     }
                   ]
@@ -189,19 +223,19 @@
                 {
                   "1": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice20!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice21!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice22!"
                     }
                   ]
@@ -217,19 +251,19 @@
                 {
                   "1": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice30!"
                     }
                   ],
                   "2": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice31!"
                     }
                   ],
                   "3": [
                     {
-                      "user": "Tuko",
+                      "userName": "Tuko",
                       "comment": "TukoNice32!"
                     }
                   ]
@@ -240,15 +274,7 @@
         }
       ]
     }
-  ],
-  "UsersList":[
-    {
-      "username": "Tuko",
-      "name": "Артем"
-    },
-    {
-      "username": "Potter",
-      "name": "Harry"
+      ]
     }
   ]
 }
