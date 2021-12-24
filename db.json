@@ -24,9 +24,9 @@
         }
       },
       "albums":{
-        "1":"1TukoAlb",
-        "2":"2TukoAlb",
-        "3":"3TukoAlb"
+        "1TukoAlb": "1TukoAlb_info",
+        "2TukoAlb": "2TukoAlb_info",
+        "3TukoAlb": "3TukoAlb_info"
       }
     },
     {
@@ -53,9 +53,9 @@
         }
       },
       "albums":{
-        "1":"1PotterAlb",
-        "2":"2PotterAlb",
-        "3":"3PotterAlb"
+        "1PotterAlb": "1PotterAlb_info",
+        "2PotterAlb": "2PotterAlb_info",
+        "3PotterAlb": "3PotterAlb_info"
       }
     }
   ],
@@ -220,45 +220,23 @@
   "albums":[
     {
       "userName": "Tuko",
-      "userAlbs": [
+      "userAlbs": 
         {
-          "title": "1TukoAlb",
-          "info": "1TukoAlb_info"
-        },
-        {
-           "title": "2TukoAlb",
-           "info": "2TukoAlb_info"
-        },
-        {
-          "title": "3TukoAlb",
-          "info": "3TukoAlb_info"
-        },
-        {
-          "title": "4TukoAlb",
-          "info": "4TukoAlb_info"
+          "1TukoAlb": "1TukoAlb_info",
+          "2TukoAlb": "2TukoAlb_info",
+          "3TukoAlb": "3TukoAlb_info",
+          "4TukoAlb": "4TukoAlb_info"
         }
-      ]
     },
     {
       "userName": "Potter",
-      "userAlbs": [
+      "userAlbs": 
         {
-          "title": "1PotterAlb",
-          "info": "1PotterAlb_info"
-        },
-        {
-           "title": "2PotterAlb",
-           "info": "2PotterAlb_info"
-        },
-        {
-          "title": "3PotterAlb",
-          "info": "3PotterAlb_info"
-        },
-        {
-          "title": "4PotterAlb",
-          "info": "4PotterAlb_info"
+          "1PotterAlb": "1PotterAlb_info",
+          "2PotterAlb": "2PotterAlb_info",
+          "3PotterAlb": "3PotterAlb_info",
+          "4PotterAlb": "4PotterAlb_info"
         }
-      ]
     }
   ]
 }
