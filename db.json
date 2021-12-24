@@ -40,6 +40,12 @@
         "2": "2PotterPost",
         "3": "3PotterPost",
         "4": "4PotterPost"
+      },
+      "albums":{
+        "1":"1PotterAlb",
+        "2":"2PotterAlb",
+        "3":"3PotterAlb",
+        "4":"4PotterAlb"
       }
     }
   ],
