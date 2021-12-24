@@ -26,8 +26,7 @@
       "albums":{
         "1":"1TukoAlb",
         "2":"2TukoAlb",
-        "3":"3TukoAlb",
-        "4":"4TukoAlb"
+        "3":"3TukoAlb"
       }
     },
     {
@@ -56,8 +55,7 @@
       "albums":{
         "1":"1PotterAlb",
         "2":"2PotterAlb",
-        "3":"3PotterAlb",
-        "4":"4PotterAlb"
+        "3":"3PotterAlb"
       }
     }
   ],
@@ -76,8 +74,7 @@
       "userName": "Tuko",
       "userPosts":[
         {
-          "title": "1TukoPost",
-          "info": "1TukoPost_info",
+          "1TukoPost": "1TukoPost_info",
           "comments": [
             {
               "userName": "Potter",
@@ -94,8 +91,7 @@
           ]
         },
         {
-          "title": "2TukoPost",
-          "info": "2TukoPost_info",
+          "2TukoPost": "2TukoPost_info",
           "comments": [
               {
                 "userName": "Potter",
@@ -112,8 +108,7 @@
           ]
         },
         {
-          "title": "3TukoPost",
-          "info": "3TukoPost_info",
+          "3TukoPost": "3TukoPost_info",
           "comments": [
             {
               "userName": "Potter",
@@ -130,8 +125,7 @@
           ]
         },
         {
-          "title": "4TukoPost",
-          "info": "4TukoPost_info",
+          "4TukoPost": "4TukoPost_info",
           "comments": [
             {
               "userName": "Potter",
@@ -153,8 +147,7 @@
       "userName": "Potter",
       "userPosts": [
          {
-          "title": "1PotterPost",
-          "info": "1PotterPost_info",
+          "1PotterPost": "1PotterPost_info",
           "comments": [
               {
                 "userName": "Tuko",
@@ -171,8 +164,7 @@
             ]
           },
           {
-            "title": "2PotterPost",
-            "info": "2PotterPost_info",
+            "2PotterPost": "2PotterPost_info",
             "comments": [
               {
                 "userName": "Tuko",
@@ -189,8 +181,7 @@
             ]
           },
           {
-            "title": "3PotterPost",
-            "info": "3PotterPost_info",
+            "3PotterPost": "3PotterPost_info",
             "comments": [
               {
                 "userName": "Tuko",
@@ -207,8 +198,7 @@
             ]
           },
           {
-            "title": "4PotterPost",
-            "info": "4PotterPost_info",
+            "4PotterPost": "4PotterPost_info",
             "comments": [
               {
                 "userName": "Tuko",
