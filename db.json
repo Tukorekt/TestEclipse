@@ -13,10 +13,18 @@
         "catchPhrase": "SomeCatchPhrase"
       },
       "posts":{
-        "1": "1TukoPost",
-        "2": "2TukoPost",
-        "3": "3TukoPost",
-        "4": "4TukoPost"
+        "1": {
+          "1TukoPost":"1TukoPostInfo"
+        },
+        "2": {
+          "2TukoPost":"2TukoPostInfo"
+        },
+        "3": {
+          "3TukoPost":"3TukoPostInfo"
+        },
+        "4": {
+          "4TukoPost":"4TukoPostInfo"
+        }
       },
       "albums":{
         "1":"1TukoAlb",
@@ -38,10 +46,18 @@
         "catchPhrase": "SomeCatchPhrasePotter"
       },
       "posts":{
-        "1": "1PotterPost",
-        "2": "2PotterPost",
-        "3": "3PotterPost",
-        "4": "4PotterPost"
+        "1": {
+          "1PotterPost":"1PotterPostInfo"
+        },
+        "2": {
+          "2PotterPost":"2PotterPostInfo"
+        },
+        "3": {
+          "3PotterPost":"3PotterPostInfo"
+        },
+        "4": {
+          "4PotterPost":"4PotterPostInfo"
+        }
       },
       "albums":{
         "1":"1PotterAlb",
