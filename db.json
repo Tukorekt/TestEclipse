@@ -6,6 +6,7 @@
       "email": "artem-lac@mail.ru",
       "phone": "+79011745046",
       "webSite": "www.SomeSite.com",
+      "address": "volod",
       "job":{
         "name": "SomeCompany",
         "bs": "SomeBS",
@@ -30,6 +31,7 @@
       "email": "HarryPotter@mail.ru",
       "phone": "+79201401703",
       "webSite": "www.SomeSitePotter.com",
+      "address": "volod2",
       "job":{
         "name": "SomeCompanyPotter",
         "bs": "SomeBSPotter",
