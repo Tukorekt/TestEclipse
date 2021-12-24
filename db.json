@@ -7,17 +7,20 @@
       "phone": "+79011745046",
       "webSite": "www.SomeSite.com",
       "address": "volod1",
-      "job":{
+      "job":
+      {
         "name": "SomeCompany",
         "bs": "SomeBS",
         "catchPhrase": "SomeCatchPhrase"
       },
-      "posts":{
+      "posts":
+      {
         "1TukoPost":"1TukoPostInfo",
         "2TukoPost":"2TukoPostInfo",
         "3TukoPost":"3TukoPostInfo"
       },
-      "albums":{
+      "albums":
+      {
         "1TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
         "2TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
         "3TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
@@ -30,17 +33,20 @@
       "phone": "+79201401703",
       "webSite": "www.SomeSitePotter.com",
       "address": "volod2",
-      "job":{
+      "job":
+      {
         "name": "SomeCompanyPotter",
         "bs": "SomeBSPotter",
         "catchPhrase": "SomeCatchPhrasePotter"
       },
-      "posts":{
+      "posts":
+      {
           "1PotterPost":"1PotterPostInfo",
           "2PotterPost":"2PotterPostInfo",
           "3PotterPost":"3PotterPostInfo"
       },
-      "albums":{
+      "albums":
+      {
         "1PotterAlb": "https://i.imgur.com/Mx2mvwn.png",
         "2PotterAlb": "https://i.imgur.com/Mx2mvwn.png",
         "3PotterAlb": "https://i.imgur.com/Mx2mvwn.png"
