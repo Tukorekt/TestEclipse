@@ -218,7 +218,7 @@
   "albums":[
     {
       "userName": "Tuko",
-      "userAlbs": 
+      "userAlbs": [
         {
           "1TukoAlb": 
           {
@@ -231,6 +231,7 @@
           "3TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
           "4TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
         }
+       ]
     },
     {
       "userName": "Potter",
