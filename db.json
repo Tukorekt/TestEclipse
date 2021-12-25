@@ -17,13 +17,15 @@
       {
         "1TukoPost":"1TukoPostInfo",
         "2TukoPost":"2TukoPostInfo",
-        "3TukoPost":"3TukoPostInfo"
+        "3TukoPost":"3TukoPostInfo",
+        "4TukoPost": "4TukoPost_info"
       },
       "albums":
       {
         "1TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
         "2TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
-        "3TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
+        "3TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
+        "4TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
       }
     },
     {
@@ -43,13 +45,15 @@
       {
           "1PotterPost":"1PotterPostInfo",
           "2PotterPost":"2PotterPostInfo",
-          "3PotterPost":"3PotterPostInfo"
+          "3PotterPost":"3PotterPostInfo",
+          "4PotterPost":"4PotterPostInfo"
       },
       "albums":
       {
         "1PotterAlb": "https://i.imgur.com/Mx2mvwn.png",
         "2PotterAlb": "https://i.imgur.com/Mx2mvwn.png",
-        "3PotterAlb": "https://i.imgur.com/Mx2mvwn.png"
+        "3PotterAlb": "https://i.imgur.com/Mx2mvwn.png",
+        "4PotterAlb": "https://i.imgur.com/Mx2mvwn.png"
       }
     }
   ],
