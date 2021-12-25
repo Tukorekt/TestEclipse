@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 1,
       "userName": "Tuko",
       "name": "Артем",
       "email": "artem-lac@mail.ru",
@@ -29,6 +30,7 @@
       }
     },
     {
+      "id": 2,
       "userName": "Potter",
       "name": "Harry",
       "email": "HarryPotter@mail.ru",
@@ -59,16 +61,19 @@
   ],
   "usersList":[
     {
+      "id": 1,
       "userName": "Tuko",
       "name": "Артем"
     },
     {
+      "id": 2,
       "userName": "Potter",
       "name": "Harry"
     }
   ],
   "posts":[
     {
+      "id": 1,
       "userName": "Tuko",
       "userPosts":{
         "1TukoPost":{
@@ -146,6 +151,7 @@
       }
     },
     {
+      "id": 2,
       "userName": "Potter",
       "userPosts": {
          "1PotterPost":{
@@ -221,6 +227,7 @@
   ],
   "albums":[
     {
+      "id": 1,
       "userName": "Tuko",
       "userAlbs": 
       {
@@ -237,6 +244,7 @@
       }
     },
     {
+      "id": 2,
       "userName": "Potter",
       "userAlbs": 
         {
