@@ -68,7 +68,7 @@
     }
   ],
   "posts":[
-    "tukoPosts":{
+    {
       "userName": "Tuko",
       "userPosts":{
         "1TukoPost":{
