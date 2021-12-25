@@ -217,21 +217,20 @@
   ],
   "albums":[
     {
-      "userName": "Tuko1",
-      "userAlbs": [
+      "userName": "Tuko",
+      "userAlbs": 
+      {
+        "1TukoAlb": 
         {
-          "1TukoAlb": 
-          {
-            "1TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "2TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "3TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "4TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "2TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
-          "3TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
-          "4TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
-        }
-       ]
+          "1TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "2TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "3TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "4TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+        },
+        "2TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
+        "3TukoAlb": "https://i.imgur.com/Mx2mvwn.png",
+        "4TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
+      }
     },
     {
       "userName": "Potter",
