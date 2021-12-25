@@ -81,10 +81,12 @@
             },
             {
               "userName": "Potter",
+              "email": "HarryPotter@mail.ru",
               "comment": "PotterNice01!"
             },
             {
               "userName": "Potter",
+              "email": "HarryPotter@mail.ru",
               "comment": "PotterNice02!"
             }
           ]
