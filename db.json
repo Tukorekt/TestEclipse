@@ -215,8 +215,8 @@
         ]
       }
   ],
-  "albums":{
-    "Tuko": {
+  "albums":[
+    {
       "userName": "Tuko",
       "userAlbs": 
         {
@@ -232,7 +232,7 @@
           "4TukoAlb": "https://i.imgur.com/Mx2mvwn.png"
         }
     },
-    "2":{
+    {
       "userName": "Potter",
       "userAlbs": 
         {
@@ -242,5 +242,5 @@
           "4PotterAlb": "https://i.imgur.com/Mx2mvwn.png"
         }
     }
-  }
+  ]
 }
