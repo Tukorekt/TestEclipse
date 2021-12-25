@@ -70,9 +70,9 @@
   "posts":[
     {
       "userName": "Tuko",
-      "userPosts":[
-        {
-          "1TukoPost": "1TukoPost_info",
+      "userPosts":{
+        "1TukoPost":{
+          "info": "1TukoPost_info",
           "comments": [
             {
               "userName": "Potter",
@@ -88,8 +88,8 @@
             }
           ]
         },
-        {
-          "2TukoPost": "2TukoPost_info",
+        "2TukoPost":{
+          "info": "2TukoPost_info",
           "comments": [
               {
                 "userName": "Potter",
@@ -105,8 +105,8 @@
               }
           ]
         },
-        {
-          "3TukoPost": "3TukoPost_info",
+        "3TukoPost":{
+          "info": "3TukoPost_info",
           "comments": [
             {
               "userName": "Potter",
@@ -122,8 +122,8 @@
             }
           ]
         },
-        {
-          "4TukoPost": "4TukoPost_info",
+        "4TukoPost":{
+          "info": "4TukoPost_info",
           "comments": [
             {
               "userName": "Potter",
@@ -139,13 +139,13 @@
             }
           ]
         }
-      ]
+      }
     },
     {
       "userName": "Potter",
-      "userPosts": [
-         {
-          "1PotterPost": "1PotterPost_info",
+      "userPosts": {
+         "1PotterPost":{
+          "info": "1PotterPost_info",
           "comments": [
               {
                 "userName": "Tuko",
@@ -161,8 +161,8 @@
               }
             ]
           },
-          {
-            "2PotterPost": "2PotterPost_info",
+          "2PotterPost":{
+            "info": "2PotterPost_info",
             "comments": [
               {
                 "userName": "Tuko",
@@ -178,8 +178,8 @@
               }
             ]
           },
-          {
-            "3PotterPost": "3PotterPost_info",
+          "3PotterPost":{
+            "info": "3PotterPost_info",
             "comments": [
               {
                 "userName": "Tuko",
@@ -195,8 +195,8 @@
               }
             ]
           },
-          {
-            "4PotterPost": "4PotterPost_info",
+          "4PotterPost":{
+            "info": "4PotterPost_info",
             "comments": [
               {
                 "userName": "Tuko",
@@ -212,7 +212,7 @@
               }
             ]
           }
-        ]
+        }
       }
   ],
   "albums":[
