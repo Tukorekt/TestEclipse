@@ -7,7 +7,7 @@
       "email": "artem-lac@mail.ru",
       "phone": "+79011745046",
       "webSite": "www.SomeSite.com",
-      "address": "volod333",
+      "address": "volod1",
       "job":
       {
         "name": "SomeCompany",
@@ -71,52 +71,6 @@
       "name": "Harry"
     }
   ],
-  "qwerdsa":[
-    {
-      "id" : 1,
-      "userName" : "Tuko",
-      "userqwerdsa" : [
-        {
-          "qwerdsaTukosa" : {
-            "1Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "2Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "3Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "4Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png"
-          }
-        },
-        {
-          "qwerdsaTukosw" : {
-            "1Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "2Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "3Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "4Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png"
-          }
-        }
-      ]
-    },
-    {
-      "id" : 2,
-      "userName" : "Potter",
-      "userqwerdsa" : [
-        {
-          "qwerdsaPottersq" : {
-            "1Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "2Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "3Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "4Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png"
-          }
-        },
-        {
-          "qwerdsaPottersw" : {
-            "Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "2Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "3Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
-            "4Pottersqwerdsa" : "https://i.imgur.com/H9pfTtm.png"
-          }
-        }
-      ]
-    }
-  ],
   "posts":[
     {
       "id": 1,
@@ -136,6 +90,12 @@
               "userName": "Potter",
               "email": "HarryPotter@mail.ru",
               "comment": "PotterNice01!"
+            },
+            {
+              "id": 3,
+              "userName": "Potter",
+              "email": "HarryPotter@mail.ru",
+              "comment": "PotterNice02!"
             }
           ]
         },
@@ -147,6 +107,18 @@
                 "userName": "Potter",
                 "email": "HarryPotter@mail.ru",
                 "comment": "PotterNice10!"
+              },
+              {
+                "id": 2,
+                "userName": "Potter",
+                 "email": "HarryPotter@mail.ru",
+                "comment": "PotterNice11!"
+              },
+              {
+                "id": 3,
+                "userName": "Potter",
+                 "email": "HarryPotter@mail.ru",
+                "comment": "PotterNice12!"
               }
           ]
         },
@@ -158,6 +130,18 @@
               "userName": "Potter",
                "email": "HarryPotter@mail.ru",
               "comment": "PotterNice20!"
+            },
+            {
+              "id": 2,
+              "userName": "Potter",
+               "email": "HarryPotter@mail.ru",
+              "comment": "PotterNice21!"
+            },
+            {
+              "id": 3,
+              "userName": "Potter",
+               "email": "HarryPotter@mail.ru",
+              "comment": "PotterNice22!"
             }
           ]
         },
@@ -169,6 +153,18 @@
               "userName": "Potter",
                "email": "HarryPotter@mail.ru",
               "comment": "PotterNice30!"
+            },
+            {
+              "id": 2,
+              "userName": "Potter",
+               "email": "HarryPotter@mail.ru",
+              "comment": "PotterNice31!"
+            },
+            {
+              "id": 3,
+              "userName": "Potter",
+               "email": "HarryPotter@mail.ru",
+              "comment": "PotterNice32!"
             }
           ]
         }
@@ -192,6 +188,12 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice01!"
+              },
+              {
+                "id": 3,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice02!"
               }
             ]
           },
@@ -203,6 +205,18 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice10!"
+              },
+              {
+                "id": 2,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice11!"
+              },
+              {
+                "id": 3,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice12!"
               }
             ]
           },
@@ -214,6 +228,18 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice20!"
+              },
+              {
+                "id": 2,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice21!"
+              },
+              {
+                "id": 3,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice22!"
               }
             ]
           },
@@ -225,10 +251,87 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice30!"
+              },
+              {
+                "id": 2,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice31!"
+              },
+              {
+                "id": 3,
+                "userName": "Tuko",
+                "email": "artem-lac@mail.ru",
+                "comment": "TukoNice32!"
               }
             ]
           }
         }
       }
+  ],
+  "albums":[
+    {
+      "id": 1,
+      "userName": "Tuko",
+      "userAlbs": 
+      {
+        "1TukoAlb": 
+        {
+          "01TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "02TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "03TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "04TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+        },
+        "2TukoAlb": {
+          "11TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "12TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "13TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "14TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+        },
+        "3TukoAlb": {
+          "21TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "22TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "23TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "24TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+        },
+        "4TukoAlb": {
+          "31TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "32TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "33TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+          "34TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "userName": "Potter",
+      "userAlbs": 
+        {
+          "1PotterAlb": {
+            "01PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "02PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "03PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "04PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "2PotterAlb": {
+            "11PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "12PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "13PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "14PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "3PotterAlb": {
+            "21PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "22PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "23PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "24PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "4PotterAlb": {
+            "31PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "32PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "33PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "34PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          }
+        }
+    }
   ]
 }
