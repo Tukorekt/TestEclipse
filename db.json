@@ -71,7 +71,7 @@
       "name": "Harry"
     }
   ],
-  "albums":[
+  "albumsUsers":[
     {
       "id": 1,
       "userName": "Tuko",
