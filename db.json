@@ -79,8 +79,10 @@
         "1AlbumTukos":{
           "info" : "1AlbumTukoInfo",
           "photos": [
-            "id":1,
-            "photo":"aaa"
+            {
+              "id":1,
+              "photo":"aaa"
+            }
           ]
         }
       }
