@@ -79,24 +79,28 @@
         {
           "1TukoAlb": 
           {
+            "id":1
             "01TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "02TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "03TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "04TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
           "2TukoAlb": {
+            "id":2
             "11TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "12TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "13TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "14TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
           "3TukoAlb": {
+            "id":3
             "21TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "22TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "23TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "24TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
           "4TukoAlb": {
+            "id":4
             "31TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "32TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "33TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
@@ -111,24 +115,28 @@
       "userAlbs": [
         {
           "1PotterAlb": {
+            "id":1
             "01PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "02PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "03PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "04PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
           "2PotterAlb": {
+            "id":2
             "11PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "12PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "13PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "14PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
           "3PotterAlb": {
+            "id":3
             "21PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "22PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "23PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "24PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
           "4PotterAlb": {
+            "id":4
             "31PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "32PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "33PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
