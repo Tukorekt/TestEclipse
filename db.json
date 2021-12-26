@@ -71,6 +71,73 @@
       "name": "Harry"
     }
   ],
+  "albums":[
+    {
+      "id": 1,
+      "userName": "Tuko",
+      "userAlbs":[ 
+        {
+          "1TukoAlb": 
+          {
+            "01TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "02TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "03TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "04TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "2TukoAlb": {
+            "11TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "12TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "13TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "14TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "3TukoAlb": {
+            "21TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "22TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "23TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "24TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "4TukoAlb": {
+            "31TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "32TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "33TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "34TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userName": "Potter",
+      "userAlbs": [
+        {
+          "1PotterAlb": {
+            "01PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "02PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "03PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "04PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "2PotterAlb": {
+            "11PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "12PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "13PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "14PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "3PotterAlb": {
+            "21PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "22PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "23PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "24PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          },
+          "4PotterAlb": {
+            "31PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "32PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "33PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
+            "34PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
+          }
+        }
+      ]
+    }
+  ],
   "posts":[
     {
       "id": 1,
@@ -268,72 +335,5 @@
           }
         }
       }
-  ],
-  "albums":[
-    {
-      "id": 1,
-      "userName": "Tuko",
-      "userAlbs":[ 
-        {
-          "1TukoAlb": 
-          {
-            "01TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "02TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "03TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "04TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "2TukoAlb": {
-            "11TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "12TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "13TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "14TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "3TukoAlb": {
-            "21TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "22TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "23TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "24TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "4TukoAlb": {
-            "31TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "32TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "33TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "34TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          }
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "userName": "Potter",
-      "userAlbs": [
-        {
-          "1PotterAlb": {
-            "01PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "02PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "03PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "04PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "2PotterAlb": {
-            "11PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "12PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "13PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "14PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "3PotterAlb": {
-            "21PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "22PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "23PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "24PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          },
-          "4PotterAlb": {
-            "31PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "32PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "33PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
-            "34PotterAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
-          }
-        }
-      ]
-    }
   ]
 }
