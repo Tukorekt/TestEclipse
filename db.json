@@ -159,12 +159,6 @@
               "userName": "Potter",
               "email": "HarryPotter@mail.ru",
               "comment": "PotterNice00!"
-            },
-            {
-              "id": 2,
-              "userName": "Potter",
-              "email": "HarryPotter@mail.ru",
-              "comment": "PotterNice01!"
             }
           ]
         },
@@ -176,12 +170,6 @@
                 "userName": "Potter",
                 "email": "HarryPotter@mail.ru",
                 "comment": "PotterNice10!"
-              },
-              {
-                "id": 2,
-                "userName": "Potter",
-                 "email": "HarryPotter@mail.ru",
-                "comment": "PotterNice11!"
               }
           ]
         },
@@ -193,12 +181,6 @@
               "userName": "Potter",
                "email": "HarryPotter@mail.ru",
               "comment": "PotterNice20!"
-            },
-            {
-              "id": 2,
-              "userName": "Potter",
-               "email": "HarryPotter@mail.ru",
-              "comment": "PotterNice21!"
             }
           ]
         },
@@ -210,12 +192,6 @@
               "userName": "Potter",
                "email": "HarryPotter@mail.ru",
               "comment": "PotterNice30!"
-            },
-            {
-              "id": 2,
-              "userName": "Potter",
-               "email": "HarryPotter@mail.ru",
-              "comment": "PotterNice31!"
             }
           ]
         }
@@ -233,12 +209,6 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice00!"
-              },
-              {
-                "id": 2,
-                "userName": "Tuko",
-                "email": "artem-lac@mail.ru",
-                "comment": "TukoNice01!"
               }
             ]
           },
@@ -250,12 +220,6 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice10!"
-              },
-              {
-                "id": 2,
-                "userName": "Tuko",
-                "email": "artem-lac@mail.ru",
-                "comment": "TukoNice11!"
               }
             ]
           },
@@ -267,12 +231,6 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice20!"
-              },
-              {
-                "id": 2,
-                "userName": "Tuko",
-                "email": "artem-lac@mail.ru",
-                "comment": "TukoNice21!"
               }
             ]
           },
@@ -284,12 +242,6 @@
                 "userName": "Tuko",
                 "email": "artem-lac@mail.ru",
                 "comment": "TukoNice30!"
-              },
-              {
-                "id": 2,
-                "userName": "Tuko",
-                "email": "artem-lac@mail.ru",
-                "comment": "TukoNice31!"
               }
             ]
           }
