@@ -59,13 +59,25 @@
       }
     }
   ],
-  "albumsUser":[
+  "usersList":[
+    {
+      "id": 1,
+      "userName": "Tuko",
+      "name": "Артем"
+    },
+    {
+      "id": 2,
+      "userName": "Potter",
+      "name": "Harry"
+    }
+  ],
+  "qwerdsa":[
     {
       "id" : 1,
       "userName" : "Tuko",
-      "userAlbums" : {
-        "1AlbumTukos" : {
-          "info" : "1AlbumTukoInfo",
+      "userqwerdsa" : {
+        "1qwerdsaTukos" : {
+          "info" : "1qwerdsaTukoInfo",
           "photos" : [
             {
               "id" : 1,
