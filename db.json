@@ -77,7 +77,7 @@
       "userName": "Tuko",
       "userAlbs": 
         {
-          "1TukoAlb": 
+          "TukoAlbum1": 
           {
             "id":1,
             "01TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
@@ -85,21 +85,21 @@
             "03TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "04TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
-          "2TukoAlb": {
+          "TukoAlbum2": {
             "id":2,
             "11TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "12TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "13TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "14TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
-          "3TukoAlb": {
+          "TukoAlbum3": {
             "id":3,
             "21TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "22TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "23TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "24TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png"
           },
-          "4TukoAlb": {
+          "TukoAlbum4": {
             "id":4,
             "31TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
             "32TukoAlb1Title": "https://i.imgur.com/Mx2mvwn.png",
