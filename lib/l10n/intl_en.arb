@@ -1,0 +1,17 @@
+{
+  "main_app_bar_title" : "Main Page",
+  "nick_name" : "NickName: ",
+  "name" : "Name: ",
+  "getting_data" : "Getting Data",
+  "email" : "Email: ",
+  "phone" : "Phone: ",
+  "web_site" : "WebSite: ",
+  "address" : "Address: ",
+  "job" : "Job",
+  "posts" : "Posts",
+  "albums" : "Albums",
+  "more" : "more...",
+  "comments" : "Comments",
+  "send_comment" : "Send Comment",
+  "send" : "Send"
+}
