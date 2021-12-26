@@ -59,18 +59,6 @@
       }
     }
   ],
-  "usersList":[
-    {
-      "id": 1,
-      "userName": "Tuko",
-      "name": "Артем"
-    },
-    {
-      "id": 2,
-      "userName": "Potter",
-      "name": "Harry"
-    }
-  ],
   "albumsUser":[
     {
       "id": 1,
