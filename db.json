@@ -75,17 +75,14 @@
     {
       "id" : 1,
       "userName" : "Tuko",
-      "userqwerdsa" : {
+      "userqwerdsa" : [
         "1qwerdsaTukos" : {
-          "info" : "1qwerdsaTukoInfo",
-          "photos" : [
-            {
-              "id" : 1,
-              "photo" : "aaa"
-            }
-          ]
+          "1Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
+          "2Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
+          "3Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png",
+          "4Tukosqwerdsa" : "https://i.imgur.com/H9pfTtm.png"
         }
-      }
+      ]
     }
   ],
   "posts":[
