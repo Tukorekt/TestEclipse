@@ -7,7 +7,7 @@
       "email": "artem-lac@mail.ru",
       "phone": "+79011745046",
       "webSite": "www.SomeSite.com",
-      "address": "volod01",
+      "address": "volod21",
       "job":
       {
         "name": "SomeCompany",
@@ -61,15 +61,15 @@
   ],
   "albumsUser":[
     {
-      "id": 1,
-      "userName": "Tuko",
-      "userAlbums":{
-        "1AlbumTukos":{
+      "id" : 1,
+      "userName" : "Tuko",
+      "userAlbums" : {
+        "1AlbumTukos" : {
           "info" : "1AlbumTukoInfo",
-          "photos": [
+          "photos" : [
             {
-              "id":1,
-              "photo":"aaa"
+              "id" : 1,
+              "photo" : "aaa"
             }
           ]
         }
