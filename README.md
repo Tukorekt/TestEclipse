@@ -1,6 +1,6 @@
 # TestEclipse
 
-В этой ветке находится JSON БД, основная программа находится в ветке "master" [https://github.com/Tukorekt/TestEclipse/tree/master]{"master"}
+В этой ветке находится JSON БД, основная программа находится в ветке "master"[https://github.com/Tukorekt/TestEclipse/tree/master]
 
 *Примечания по БД и сервису
 
